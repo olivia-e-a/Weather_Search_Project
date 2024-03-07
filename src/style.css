@@ -22,7 +22,7 @@ header {
     border: none;
     border-radius: 6px;
     width: 80%;
-    padding: 15px 20px;
+    padding: 15px 25px;
     font-size: 16px;
 }
 .search-form-button {
@@ -51,7 +51,7 @@ main {
     line-height: 20px;
 }
 .weather-app-details strong {
-   color: #755DA3; 
+   color: #FFA35F; 
 }
 .weather-app-temperature-container {
     display: flex;
